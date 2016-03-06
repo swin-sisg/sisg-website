@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<jobs>
+	<job show="">
+		<id></id>
+		<category></category>
+		<title></title>
+		<organisation show=""></organisation>
+		<date_open></date_open>
+		<date_close></date_close>
+		<detail show="">
+			<type></type>
+			<duration></duration>
+			<salary></salary>
+			<international></international>
+			<role></role>
+			<skills></skills>
+			<apply></apply>
+		</detail>
+	</job>
+</jobs>
+
+	

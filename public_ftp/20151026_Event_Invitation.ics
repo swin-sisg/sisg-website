@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:AUS Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16010401T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16011007T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20151020T225717Z
+DESCRIPTION:Join SISG at Swinburne Hawthorn Campus on Monday 26th October 2
+	015. \n\n‘Looking for IT Jobs this summer’ aims to connect students wi
+	th opportunities\, including summer projects\, internships\, research oppo
+	rtunities and graduate positions.\n\nFor more information\, please visit t
+	he events page at www.sisg.com.au or visit us on facebook www.fb.com/swin.
+	sisg \n\nRegards\, \n\nSISG Committee\n
+DTEND;TZID="AUS Eastern Standard Time":20151026T193000
+DTSTAMP:20151007T021940Z
+DTSTART;TZID="AUS Eastern Standard Time":20151026T173000
+LAST-MODIFIED:20151020T225717Z
+LOCATION:Level 2\, The George Swinburne Building (GS217)\, Swinburne Hawtho
+	rn Campus
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-au:SISG Event: Looking for IT Jobs this summer
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000503AC3D10201D101000000000000000
+	010000000779C4EB2C928C94DA6D56B888F4110F2
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-au"></SPAN><SPAN LANG
+	="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Calibri">Join</FONT></SPAN>
+	<SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FO
+	NT FACE="Arial"></FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"
+	></SPAN><SPAN LANG="en-au"> <FONT FACE="Calibri">SISG at</FONT></SPAN><SPA
+	N LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FONT F
+	ACE="Calibri"></FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><
+	/SPAN><SPAN LANG="en-au"> <FONT FACE="Calibri">Level 2\, The George Swinbu
+	rne Building</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></S
+	PAN><SPAN LANG="en-au"><FONT FACE="Calibri">\,</FONT></SPAN><SPAN LANG="en
+	-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Calib
+	ri"> Swinburne Hawthorn Campus on Monday 26</FONT></SPAN><SPAN LANG="en-au
+	"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><SUP><FONT FACE="Cal
+	ibri">th</FONT></SUP></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><
+	/SPAN><SPAN LANG="en-au"><FONT FACE="Calibri"> October 2015.</FONT></SPAN>
+	<SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"> </
+	SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPA
+	N><SPAN LANG="en-au"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-au"></SPAN><
+	SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Calibri">‘Lookin
+	g for IT Jobs this summer’ aims to connect students with opportunities\,
+	 including</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPA
+	N><SPAN LANG="en-au"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-au"><
+	/SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"> <FONT FACE="Calibri">s
+	ummer projects\,</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"
+	></SPAN><SPAN LANG="en-au"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en
+	-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"> <FONT FACE="Cali
+	bri">internships\, research opportunities and graduate positions.</FONT></
+	SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au
+	"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><
+	/SPAN><SPAN LANG="en-au"><FONT FACE="Calibri">For more information\, pleas
+	e visit the events page at</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LA
+	NG="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Arial"></FONT></SPAN><SPA
+	N LANG="en-au"> </SPAN><A HREF="http://www.sisg.com.au"><SPAN LANG="en-au"
+	></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><U><FONT COLOR="#0563
+	C1" FACE="Calibri">www.sisg.com.au</FONT></U></SPAN><SPAN LANG="en-au"></S
+	PAN></A><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en
+	-au"><FONT FACE="Calibri"> or visit us on</FONT></SPAN><SPAN LANG="en-au">
+	</SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"> <FONT FACE="Calibri">
+	Facebook</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN>
+	<SPAN LANG="en-au"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="en-au"> </
+	SPAN><A HREF="http://www.fb.com/swin.sisg"><SPAN LANG="en-au"></SPAN><SPAN
+	 LANG="en-au"></SPAN><SPAN LANG="en-au"><U><FONT COLOR="#0563C1" FACE="Cal
+	ibri">www.fb.com/swin.sisg</FONT></U></SPAN><SPAN LANG="en-au"></SPAN></A>
+	<SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FO
+	NT FACE="Calibri"></FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-a
+	u"></SPAN><SPAN LANG="en-au"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-au"
+	></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Calibri">
+	Regards\,</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN
+	><SPAN LANG="en-au"> </SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en-au"></SPAN><
+	SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"><FONT FACE="Calibri">SISG Comm
+	ittee</FONT></SPAN><SPAN LANG="en-au"></SPAN><SPAN LANG="en-au"></SPAN><SP
+	AN LANG="en-au"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

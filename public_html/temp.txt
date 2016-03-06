@@ -1,0 +1,789 @@
+
+	
+<h2 style="color: #000000;">Industry Speaker event - Continuously Delivering Value At Zendesk</h2>
+<p>Presenter:&nbsp;<strong>Adel Smee - Team Lead at Zendesk</strong></p>
+<p><em>"An Agile software development team needs to be good at one thing - responding to change. The mechanism of change is the software delivery system. By considering the technical, workflow and people elements of continuous delivery at the beginning of a project, rather than as an afterthought, you can ensure earlier competitive advantage.</em></p>
+<p><em>At Zendesk we&rsquo;ve built a continuous delivery pipeline to ensure we maximise our ability to deliver software of value at speed. This talk includes an overview of the technologies we use to build that pipeline, how we run it at web scale and why we chose this particular process. I&rsquo;ll also explain how we create an environment that fosters the intrinsic elements crucial for the success of this kind of software delivery: trust and collaboration</em>"<em>.</em></p>
+<p><strong><strong>Confirmed date</strong>:&nbsp;</strong>Thursday, 31st March 2016 (11.00am)<br /><strong>Location:&nbsp;</strong>ATC205, Level 2 Advanced Technologies Centre, Swinburne University, Hawthorn Campus</p>
+<p>&nbsp;</p>
+<h2 style="color: #000000;">2016 Hexagon Geospatial IGNITE Session competition</h2>
+<p>IGNITE is more than a competition. It is your opportunity to build an innovative Hexagon Smart M.App that you believe will change the world. If it hits the mark, you can win big. Get involved and kick start your idea at an IGNITE Session. There are gifts of a total of 250,000 USD. Registration is required (<a href="http://go.hexagongeospatial.com/l/64872/2016-01-31/688tnd">link to registration form</a>).&nbsp;</p>
+<p><strong><strong>Confirmed date</strong>:&nbsp;</strong>11th April 2016 (1:30pm PM &ndash; 6:00pm)<br /><strong>Location:</strong> Ronald R MacKay Building,&nbsp;RMIT University<br /><strong>Website:</strong>&nbsp;<a href="http://www.hexagongeospatial.com/ignite">http://www.hexagongeospatial.com/ignite<br /></a><a href="http://www.hexagongeospatial.com/ignite"></a><strong>Registration:</strong>&nbsp;<a href="http://go.hexagongeospatial.com/l/64872/2016-01-31/688tnd">http://go.hexagongeospatial.com/l/64872/2016-01-31/688tnd</a></p>
+<hr />
+<h1 style="text-align: center;">Previous events</h1>
+<h2 style="color: #000000;">2016 Annual General Meeting</h2>
+<p>SISG is holding its Annual General Meeting and member Meet &amp; Greet for 2016. Members are encouraged to attend to elect your leadership committee for 2016.&nbsp;<br />Nominate yourself as:</p>
+<ul>
+<li>President</li>
+<li>Secretary</li>
+<li>Treasurer.</li>
+</ul>
+<p>Committee members will be provided guidance and support from academic advisors and last year&rsquo;s committee leaders. Step up, develop your leadership skills and professional networks.&nbsp; You will have the chance to meet and discuss the events you want and your expectations for the coming year. Make the most of every opportunity in 2016.</p>
+<ul>
+<li>This event is free and open to all Vocational Education (TAFE), Bachelor and Master students and Swinburne Staff</li>
+<li>Participation is welcome from all On-Campus, External and Open University Australia students.</li>
+</ul>
+<p><strong><strong>Confirmed date</strong>:&nbsp;</strong>Tuesday 1st March 2016 (5:30pm &ndash; 6:30pm)<strong><br />Location</strong>: EN308, Level 3, Engineering Building<strong><br /></strong>Swinburne University of Technology, Hawthorn Campus</p>
+<p>&nbsp;</p>
+<h2 style="color: #000000;">Random Hacks of Kindness (RHoK)</h2>
+<p>On the 5th and 6th December 2015, Swinburne University of Technology will host the Random Hacks of Kindness - Summer Hackathon. Individuals and groups from around Australia will be joining in to hack for humanity. RHoK hackers will be working with changemakers from the community who are working to solve a problem, and have a vision for how technology can help reach their goals. The goal is to bring organisations that have a social impact together with skilled technologists who want to make a difference, in an environment ideal for collaboration and innovation.</p>
+<ul>
+<li>The event is free and open to all Swinburne staff and students. First time hackers welcome.</li>
+<li>Please register on the RHoK website to secure your spot: <a href="http://www.rhokaustralia.org" target="_blank">http://www.rhokaustralia.org</a></li>
+</ul>
+<p><strong>Location</strong>: Level 3, AMDC Building Swinburne University, Hawthorn (AMDC301 and Atrium) Hawthorn Campus</p>
+<p>&nbsp;</p>
+<h2 style="color: #000000;">Networking Event &ndash; Looking for IT jobs this summer?</h2>
+<p>SISG are hosting an information and pitch night to increase your employability and gain real skills this summer. Come along and learn about:</p>
+<ul>
+<li>Summer projects</li>
+<li>Research scholarships</li>
+<li>Graduate positions</li>
+</ul>
+<p><a href="https://swin.careerhub.com.au/students/appointments/app/?consultantId=67491" target="_blank">Polish your resume</a> and come prepared to make the most of some great opportunities.</p>
+<p><strong>Confirmed date</strong>: Monday 26th October 2015 (5:30pm &ndash; 7:30pm)<br /><strong>Location</strong>: Level 2, The George Swinburne Building (GS217)<br />Swinburne University of Technology, Hawthorn Campus</p>
+<h2 style="color: #000000;"><strong style="font-family: Tahoma,Helvetica,Arial,sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="filesisg/20151026_SummerItJobs.jpg" target="_blank">Download Event Poster (1.53MB)&nbsp;<br /></a></strong><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="filesisg/20151026_Event_Invitation.ics" target="_blank">Download Calendar Invite (5.77KB)<br /></a></strong><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="filesisg/20151026_SISG_Event.pdf" target="_blank">Download Organisation Pitch (375KB)</a></strong>&nbsp;<span style="font-size: 8pt;">[updated 21<sup>st</sup> October]</span></h2>
+<p>&nbsp;</p>
+<h2><span style="color: inherit; line-height: 1.1;">Hackathon Unearthed Melbourne 2015</span></h2>
+<p>(<strong>FREE TICKETS (4)</strong> ON OFFER!!! This event not run by SISG, however SISG encourage all students to get involved).&nbsp;</p>
+<p>Unearthed is the preeminent tech innovation event for the resources sector, connecting software engineers, developers, data scientists, innovators and entrepreneurs to global companies such as BHP, Rio Tinto and Anglo American.</p>
+<p>In 54 hours, participants in Unearthed Melbourne will have to build a prototype solution to one of several challenges on offer from a global resources company. They will then pitch their solution in their team to a panel of investors, resources industry executives and industry insiders. Their solutions will be addressing multi-million dollar challenges, therefore validating the potential that each new solution can have within the market. Unearthed is seeking talented students to take part in this new hackathon event.</p>
+<p>Participation in this event is encouraged. <span style="color: #000080;">F</span><span style="color: #800000;"><span style="color: #000080;">ree tickets on offer for a team of up to four (4) Swinburne students!&nbsp;Please<a href="index.php/contact-us" style="color: #000080;"> <strong>email Dr. Chua</strong></a>. to register interest in this free tickets offer.</span> <br /></span></p>
+<p><strong>Confirmed Date</strong>: Friday 6 &ndash; Sunday 8 November 2015 (54 hours of hacking)</p>
+<p><strong>Location</strong>: Collective Campus, 20 Queen Street, Melbourne CIty</p>
+<h2 style="color: #000000;"><strong style="font-family: Tahoma,Helvetica,Arial,sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="http://unearthed.solutions/events/unearthed-melbourne-2015/" target="_blank">More information on Unearthed Solutions (Melbourne 2015) website<br /></a></strong><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="/filesisg/20151106_Unearthed_Melb_Event_Poster.pdf" target="_blank">Download updated Event Brochure (2.13MB)</a></strong></h2>
+<h2 style="color: #000000;">&nbsp;</h2>
+<h2>Microsoft More Personal Computing Hackathon</h2>
+<p>(<strong>FREE TICKETS (5)</strong> ON OFFER!!! This event not run by SISG, however SISG encourage member participation).&nbsp;</p>
+<p>Opaque Multimedia, Swinburne University of Technology, Creative Victoria and Microsoft are pleased to bring to you the More Personal Computing Hackathon to open Melbourne International Games Week 2015.&nbsp;The 48-hour hackathon will run from Friday 23 October &ndash; Sunday 25 October 2015 at Swinburne University of Technology's Hawthorn campus.</p>
+<p><span style="color: #800000;">Free tickets on offer for a team of up to five (5) Swinburne students! To <strong>register an expression of interest</strong> in this competitive event, <span style="color: #800000;"></span><a href="index.php/contact-us"><strong>please email Dr. Chua</strong>.</a><a href="index.php/contact-us" target="_blank" rel="nofollow"></a><br /></span></p>
+<p><strong>Confirmed Date</strong>: Friday 23 &ndash; Sunday 25 October 2015 (48 hours of hacking - exact times to be confirmed [<a href="https://www.swinburne.edu.au/events/departments/engagement/2015/10/event-68329.ics">Add to Calendar]</a>)&nbsp;</p>
+<p><strong>Location</strong>: AMDC Building, Swinburne 463 Burwood Rd, Hawthorn</p>
+<h2 style="color: #000000;"><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="https://www.swinburne.edu.au/events/departments/engagement/2015/10/microsoft-more-personal-computing-hackathon.php" target="_blank">More information on Swinburne Events page<br /></a></strong><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><br /></strong></h2>
+<p>&nbsp;</p>
+<h2 style="color: #000000;">Industry Expert Panel Event &ndash; Breaking Into IT</h2>
+<p>SISG are hosting a panel discussion with industry professionals to give practical knowledge and advice to succeed and break into the IT industry. This is a great opportunity to meet and explore opportunities with IT experts.</p>
+<p>Our panel experts:</p>
+<ul>
+<li>Cam Stirling, IT Manager -&nbsp;<a href="http://www.shinetech.com/" target="_blank">Shine Technology</a></li>
+<li>David Johnson, IT Developer -&nbsp;<a href="http://www.shinetech.com/" target="_blank">Shine Technology</a></li>
+<li>Von Angeles, IT Recruiter -&nbsp;<a href="http://www.peoplebank.com.au/" target="_blank">PeopleBank</a></li>
+<li>Peter Cooney,&nbsp;<a href="http://www.facebook.com/capixsoftware" target="_blank">Capix Software</a></li>
+<li>Kanchana Wickremasinghe,&nbsp;<a href="http://www.senathltd.com/" target="_blank">Senath</a></li>
+</ul>
+<p><strong>Confirmed date</strong>: Monday 28th September 2015 (5:30pm &ndash; 7:30pm)</p>
+<p><strong>Location</strong>: EN 102, Hawthorn Campus</p>
+<h2 style="color: #000000;"><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.16px; line-height: 15.808px;"><a href="filesisg/20150928_BreakingIntoIT.jpg" target="_blank">Download Event Poster (1.38MB)</a></strong></h2>
+<h2>&nbsp;</h2>
+<h2>Project Event &ndash; Looking For IT Experience While studying?</h2>
+<p><strong>Proposed date</strong>: &nbsp;12th&nbsp;May&nbsp;2015 (02:30pm &ndash; 03:30pm)</p>
+<p><strong>Location</strong>: &nbsp; BA&nbsp;403, Hawthorn Campus</p>
+<h2><strong style="font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px; line-height: 15.8079996109009px;"><a href="filesisg/SISGEventP.pdf">Download</a></strong></h2>
+<h2>&nbsp;</h2>
+<h2>Women Rock IT &ndash; IT is a world of possibilities</h2>
+<p><strong>Proposed date</strong>:&nbsp; 23rd Apr 2015 (01:30pm &ndash; 04:30pm)</p>
+<p><strong>Location</strong>: &nbsp; BA Building Level 9 Room 912, Hawthorn Campus</p>
+<p><strong><a href="filesisg/WomenRockIT.pdf">Download</a></strong></p>
+<p>&nbsp;</p>
+<h2>A Panel Discussion by Software Industry Professionals: &ldquo;Different Job Roles in the Software Industry &ndash; How IT People Work Together&rdquo;</h2>
+<p><strong>Proposed date</strong>: &nbsp;16th Apr 2015 (5:00pm &ndash; 6:30pm)</p>
+<p><strong>Location</strong>: &nbsp; BA201 Lecture Theatre, Business and Arts Building (BA), Swinburne University of Technology, Hawthorn</p>
+<p><strong><a href="filesisg/How IT People Work Together - Event.pdf">Download</a></strong></p>
+<p>{article A Panel Discussion Event -}{readmore:A Panel Discussion Event - Video}{/article}</p>
+<h2>&nbsp;</h2>
+<h2>Employer Information Session:</h2>
+<p>CISCO</p>
+<p><strong>Proposed date</strong>: &nbsp; 18<sup>th</sup>&nbsp;Mar 2015, 3:00 pm - 4:30 pm</p>
+<p><strong>Location</strong>: &nbsp; Student Lounge Level 2, The George</p>
+<p>FEDERATION CENTRES</p>
+<p><strong>Proposed date</strong>: &nbsp; 19<sup>th</sup>&nbsp;Mar 2015, 2:30 pm - 3:30 pm</p>
+<p><strong>Location</strong>: &nbsp; Student Lounge Level 2, The George</p>
+<p>COLES</p>
+<p><strong>Proposed date</strong>: &nbsp; 16<sup>th</sup> Apr 2015, 2:30 pm - 4:00 pm</p>
+<p><strong>Location</strong>: &nbsp; Student Lounge Level 2, The George</p>
+<p><strong><a href="filesisg/CFCD_Banners x2_2014.pdf">Download</a> </strong></p>
+<p>&nbsp;</p>
+<h2>SMS Management &amp; Technology Event</h2>
+<p>The evening will provide you with opportunity to connect with women in IT.</p>
+<p><strong>Proposed date</strong>: &nbsp; 25<sup>th</sup>&nbsp;Mar 2015, 5:00 pm - 6:30 pm</p>
+<p><strong>Location</strong>: &nbsp; SMS Management &amp; Technology, level 41, 140 William St Melbourne</p>
+<p><strong><a href="filesisg/SMS Women in IT Evening 25 March 2015.pdf">Download</a> </strong></p>
+<p>&nbsp;</p>
+<h2>HTML 101</h2>
+<p>Workshop for fellow students who studies basics of HTML.&nbsp;</p>
+<p><strong>Proposed date</strong>: &nbsp; 12<sup>th</sup>&nbsp;Mar 2015, 5:00 pm - 6:30 pm</p>
+<p><strong>Location</strong>: &nbsp; BA201</p>
+<p>&nbsp;</p>
+<h2>IT Industry Career Workshop</h2>
+<p class="MsoNormal" style="text-align: justify;">This workshop is aimed at providing information about the different career paths and job roles in the IT industry. Attendees can learn what skills (technical and non-technical) are required in different job roles. They will also learn about the current market trends and the skills for certain job roles. IT professionals and academic staff will be invited to give talks. Attendees are encouraged to ask questions and meet the professionals. The following topics will be covered:</p>
+<ul>
+<li class="MsoNormal" style="text-align: justify;">IT career paths</li>
+<li class="MsoNormal" style="text-align: justify;"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"></span></span>A day as a [business analyst | programmer | software architect | DBA]</li>
+<li class="MsoNormal" style="text-align: justify;">IT training (foundation and hot topics)</li>
+<li class="MsoNormal" style="text-align: justify;">Finding an IT career that suit you</li>
+</ul>
+<p><!-- [if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Revision>0</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Pages>1</o:Pages>
+  <o:Words>7</o:Words>
+  <o:Characters>40</o:Characters>
+  <o:Company>Swinburne</o:Company>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>46</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-AU</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!-- [if gte mso 10]>
+
+<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
+<p class="MsoNormal" style="margin-left: 21.3pt;"><strong>Proposed date</strong>: week starting on 13<sup>th</sup> Apr 2015</p>
+<p class="MsoNormal" style="margin-left: 21.3pt;"><!-- [if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Revision>0</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Pages>1</o:Pages>
+  <o:Words>2</o:Words>
+  <o:Characters>15</o:Characters>
+  <o:Company>Swinburne</o:Company>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>16</o:CharactersWithSpaces>
+  <o:Version>14.0</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-AU</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!-- [if gte mso 10]>
+
+<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
+<h2 style="margin-left: 0cm; text-indent: 0cm; mso-list: l0 level1 lfo1;">&nbsp;</h2>
+<h2 style="margin-left: 0cm; text-indent: 0cm; mso-list: l0 level1 lfo1;">Resume Workshop</h2>
+<p class="MsoNormal" style="text-align: justify;">Resume is the first step of any job applicant to finding a job. Writing a good resume gives you a better chance to gain an interview. Experienced IT recruiters will be invited to speak on these topics. Attendees are invited to ask questions and learn about resume writing skills. In this workshop, you will learn:</p>
+<ul>
+<li class="MsoNormal" style="text-align: justify;">How to sell your IT skills</li>
+<li class="MsoNormal" style="text-align: justify;">How to write a good resume or a bad resume</li>
+<li class="MsoNormal" style="text-align: justify;">How to read a job advertisement</li>
+<li class="MsoNormal" style="text-align: justify;">Resumes for different job roles</li>
+</ul>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Proposed date</strong>: TBD, two workshops in 2015</p>
+<p class="MsoNormal" style="margin-left: 21.3pt;">&nbsp;</p>
+<h2><!--StartFragment--><!--EndFragment--></h2>
+<h2 style="margin-left: 0cm; text-indent: 0cm; mso-list: l0 level1 lfo1;">How-To Workshop</h2>
+<p class="MsoNormal" style="text-align: justify;">These are technical workshops on IT related subjects. There are two series: the 101 series and the masters&rsquo; series. Academics, IT professionals will be invited to give talks on various subjects. Members are invited to make suggestions and if there are enough interests, we will try to make arrangements. Some example topics are:</p>
+<ul>
+<li class="MsoNormal" style="text-align: justify;">Create a website without programming (101)</li>
+<li class="MsoNormal" style="text-align: justify;"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"></span></span>Access any RDBMS with ODBC (101)</li>
+<li class="MsoNormal" style="text-align: justify;">How does digital certificate and authentication work (101)</li>
+<li class="MsoNormal" style="text-align: justify;"><span style="font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span style="font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"></span></span>Programming with JQuery (masters)</li>
+<li class="MsoNormal" style="text-align: justify;">Software design tradeoff analysis (masters)</li>
+<li class="MsoNormal" style="text-align: justify;">Effective design process (masters)</li>
+<li class="MsoNormal" style="text-align: justify;">Software version control (masters)</li>
+</ul>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong>Proposed dates</strong>: Wed lunch time</p>
+<p class="MsoListParagraphCxSpLast" style="text-indent: -18.0pt; mso-list: l0 level1 lfo1;">&nbsp;</p>
+<h2>2014-2015 Swinburne SISG IT Resume Competition.</h2>
+<p>This is a competition for creating the best resume an advertised IT job. All SISG members can participate. One can register to become a member online. Three&nbsp;mock-up&nbsp;advertisements are made available. SISG members can only submit one application to any of the advertised IT jobs. The top three cover letters and resumes will receive a cash price of $100, $75 and $50, respectively.</p>
+<p style="text-align: justify;"><a href="https://drive.google.com/file/d/0B2fw3cQD0N1yUHktdzZXU3JFWjQ/view?usp=sharing">Download the information here</a></p>
+<p style="text-align: justify;">&nbsp;</p>
+<h2 style="text-align: left;">Technology Student Accelarator Program &nbsp; 2014-2015</h2>
+<p><a href="https://drive.google.com/file/d/0B2fw3cQD0N1ySVRUend2M1lhNG8/view?usp=sharing">Download the information here</a></p>
+<h2>&nbsp;</h2>
+<h2>Annual General Meeting</h2>
+<p>Annual general meeting for the SISG will be held on Tuesday October 28th from 12.30pm to 1.30pm in&nbsp;Room En203. All students are invite</p>
+<h2>&nbsp;</h2>
+<p class="MsoNormal"><strong><span style="font-family: Arial, sans-serif;">Presenter:</span></strong><span style="font-family: Arial, sans-serif;">&nbsp;Adel Smee - Team Lead at Zendesk</span></p>
