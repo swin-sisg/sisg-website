@@ -7,13 +7,6 @@
 		<title>SISG</title>
 		<link rel="icon" href="images/favicon.ico" type="image/png">
 		<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
-		<script>
-		
-		</script>
-		<style type="text/css">
-		
-
-		</style>
 	</head>
 	<body>
 
