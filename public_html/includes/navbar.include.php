@@ -17,7 +17,7 @@
 			<ul class="nav navbar-nav navbar-right hidden-print">
 				<!--<li class="active"><a href="index.php"><span class="glyphicon glyphicon-user"></span> Home </a></li> -->
 				<li><a href="index.php"><span class="glyphicon glyphicon-user"></span> Home </a></li>
-				<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> About </a></li>
+				<!--<li><a href="about.php"><span class="glyphicon glyphicon-info-sign"></span> About </a></li>-->
 				<li><a href="events.php"><span class="glyphicon glyphicon-calendar"></span> Events </a></li>
 				<li><a href="noticeboard.php"><span class="glyphicon glyphicon-search"></span> Jobs </a></li>
 				<li><a href="members.php"><span class="glyphicon glyphicon-cog"></span> Members </a></li>
