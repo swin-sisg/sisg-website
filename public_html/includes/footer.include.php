@@ -9,44 +9,14 @@
         <a href=#>
             <p><i class="glyphicon glyphicon-menu-up"></i></p>
         </a>
+		
+
+		
     </div>
+		
+
 
     <div class="row footer-pre">
-        <div class="col-md-4 about">
-            <h2>About Us</h2>
-            <p>We are group of like minded students who want to make the most of our time at
-                <a href="www.swinburne.edu.au" target="_blank">Swinburne University</a>. Our focus is to foster networking opportunities by promoting interaction between student members, and inviting industry partners to events at Hawthorn Campus. We have found that getting involved and making the most of every opportunity is an excellent way to get job ready and contribute to the software industry.
-            </p>
-        </div>
-        <div class="col-md-7 committee">
-            <h2>Committee</h2>
-            <section class="row">
-                <div class="col-md-4">
-                    <h4> 2016 </h4>
-                    <ul>
-                        <li>George Gabriel - President</li>
-                        <li>Lee Trevena - Treasurer</li>
-                        <li>Dylan Lewis - Secretary</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h4> 2015 </h4>
-                    <ul>
-                        <li>Ken Santoso - President</li>
-                        <li>Erik Vloothius - Treasurer</li>
-                        <li>Dylan Lewis - Secretary</li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h4> 2014 </h4>
-                    <ul>
-                        <li>Kathy Tovar - President</li>
-                    </ul>
-                </div>    
-                </div>
-            </section>
-            </div>
-        </div>
 
         <div class="footer social">
 

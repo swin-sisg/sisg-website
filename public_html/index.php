@@ -6,7 +6,7 @@
 		<meta name="description" content="Software Industry Student Group" />
 		<title>SISG</title>
 		<link rel="icon" href="images/favicon.ico" type="image/png">
-		<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+		<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'> -->
 	</head>
 	<body>
 
@@ -40,6 +40,14 @@
 			
 			<!-- site content -->
 			<div class="container">
+				<div class="col-md-12 about">
+					<p>We are group of like minded students who want to make the most of our time at
+						<a href="www.swinburne.edu.au" target="_blank">Swinburne University</a>. Our focus is to foster networking opportunities by promoting interaction between student members, and inviting industry partners to events at Hawthorn Campus. We have found that getting involved and making the most of every opportunity is an excellent way to get job ready and contribute to the software industry.
+					</p>
+				</div>
+			</div>
+			
+			<div class="container">
 
 				<div class="row">
 				  <div class="col-md-4">
@@ -61,9 +69,10 @@
 			<div class="container">
 				<div class="row">
 					
+
 					
-					<div class="col-md-10">
-						<h2>Vision & Missions</h2>
+					<div class="col-md-12">
+						<h2 class="text-center">Vision & Missions</h2>
 						
 						<!--<h3>Vision</h3>-->
 						<p>We want to help fellow students to excel as IT professionals, accumulate and share software development knowledge 
@@ -79,10 +88,14 @@
 							<li>opportunities to participate in activities such as competitions and networking</li>
 						</ul>
 					</div>
+					
+
+					
+			
 
 			
 					<div class="col-md-6">
-						<h2>Member benefits</h2>
+						<h2 class="text-center">Member benefits</h2>
 						<p>Making connections is vital. Knowing the right people is an advantage to get ahead and excel. Therefore, involvement with SISG can result in the following benefits:</p>
 						<ul>
 							<li>Gain IT project experience through participation</li>
@@ -106,7 +119,7 @@
 					</div>
 					
 					<div class="col-md-6">
-						<h2>Advisory Board</h2>
+						<h2 class="text-center">Advisory Board</h2>
 						<p>Assisting SISG to meeting its goals, we appreciate the support and guidance from the following
 						Swinburne staff:
 						<ul>
@@ -126,12 +139,37 @@
 						will provide up-to-date phone and email details for the above advisory board members.</p>
 					</div>
 					
+					<div id="committee" class="container col-md-12 text-center">
+						<h2 class="text-center">Committee</h2>
+						<div class="col-md-4">
+							<h4> 2016 (Interim) </h4>
+							<ul>
+								<li>George Gabriel - President</li>
+								<li>Lee Trevena - Treasurer</li>
+								<li>Dylan Lewis - Secretary</li>
+							</ul>
+						</div>
+						<div class="col-md-4">
+							<h4> 2015 </h4>
+							<ul>
+								<li>Ken Santoso - President</li>
+								<li>Erik Vloothius - Treasurer</li>
+								<li>Dylan Lewis - Secretary</li>
+							</ul>
+						</div>
+						<div class="col-md-4">
+							<h4> 2014 </h4>
+							<ul >
+								<li>Kathy Tovar - President</li>
+							</ul>
+						</div>    
+					</div>
 					
 					
 			</div>
 
 			<div class="col-md-12">
-					<h2>Location</h2>
+					<h2 class="text-center">Location</h2>
 					<p>Most events and meetings hosted by us are usually held at Swinburne University of Technology - Hawthorn Campus. Check individual event or meeting details for more specific information. </p>
 					
 					<div id="map">
