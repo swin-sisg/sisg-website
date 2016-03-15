@@ -2,6 +2,10 @@ body {
 	font-family: 'Droid Sans', sans-serif;
 }
 
+h2 {
+	padding-top: 1.25em;
+}
+
 h3 {
 	color: DarkRed !important;
 }
@@ -47,6 +51,11 @@ h3 {
  ul.nav {
 	 min-height:66px !important
  }
+ 
+#committee ul
+{
+	list-style-type: none;
+}
  
  .active {
 	 color: #D00000 !important; 

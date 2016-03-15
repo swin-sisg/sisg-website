@@ -6,7 +6,7 @@
 		<meta name="description" content="Software Industry Student Group" />
 		<title>SISG - Events</title>
 		<link rel="icon" href="images/favicon.ico" type="image/png">
-		<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+		<!--<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>-->
 		<script>
 		
 		</script>
@@ -93,17 +93,7 @@
 					
 						<h2>Upcoming events</h2>
 						
-						<!-- event -->
-						<h3>Industry Speaker event - How To Pass A Job Interview Coding Test</h3>
-						<p>Presenter: <strong>Adel Smee - Team Lead at Zendesk</strong></p>
-						<p>
-							<em>"If you're looking for a job as a software developer in Melbourne, the chances are you'll be asked to write some code to prove that you can do the job and do it well. I've read hundreds of these submissions and am sad to say that the standard is generally very low. Time and again I've seen a resume showing years of experience and/or excellent academic qualifications contrasted with a code test offering that doesnt even make it into the "Maybe" pile.<br />
-							My experience is primarily in Agile-flavoured software development with flat hierarchies and cross-functional teams. This type of organisation ensures the people evaluating the coding tests are the same people you'll be working with, to ensure the appropriate technical standard is maintained. In this talk I'll explain what your prospective colleagues are looking for and what you can do to maximise your chances of getting to the next stage of the recruitment process".</em>
-						</p>
-						<p>
-							<strong>Confirmed date</strong>: Monday, 14th March 2016 (11.00am)<br />
-							<strong>Location: </strong>AMDC206, Level 2 AMDC Building Swinburne University, Hawthorn Campus</p>
-						</p>
+
 						
 						<!-- event -->
 						<h3>Industry Speaker event - Continuously Delivering Value At Zendesk</h3>
@@ -134,6 +124,18 @@
 						<hr />
 						
 						<h2>Previous Events</h2>
+						
+						<!-- event -->
+						<h3>Industry Speaker event - How To Pass A Job Interview Coding Test</h3>
+						<p>Presenter: <strong>Adel Smee - Team Lead at Zendesk</strong></p>
+						<p>
+							<em>"If you're looking for a job as a software developer in Melbourne, the chances are you'll be asked to write some code to prove that you can do the job and do it well. I've read hundreds of these submissions and am sad to say that the standard is generally very low. Time and again I've seen a resume showing years of experience and/or excellent academic qualifications contrasted with a code test offering that doesnt even make it into the "Maybe" pile.<br />
+							My experience is primarily in Agile-flavoured software development with flat hierarchies and cross-functional teams. This type of organisation ensures the people evaluating the coding tests are the same people you'll be working with, to ensure the appropriate technical standard is maintained. In this talk I'll explain what your prospective colleagues are looking for and what you can do to maximise your chances of getting to the next stage of the recruitment process".</em>
+						</p>
+						<p>
+							<strong>Confirmed date</strong>: Monday, 14th March 2016 (11.00am)<br />
+							<strong>Location: </strong>AMDC206, Level 2 AMDC Building Swinburne University, Hawthorn Campus</p>
+						</p>
 						
 						<!-- event -->
 						<h3>2016 Annual General Meeting</h3>
